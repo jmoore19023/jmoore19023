@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, my name is John Moore
 
-<!--
-**jmoore19023/jmoore19023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently finishing my Associate of Applied Science in Computer Programming at Lake Land College, with an expected graduation in Summer 2026. My background is in manufacturing, where I've spent the last several years working as a Continuous Improvement Operations Specialist — leading data integration projects, building reporting tools, and automating processes that used to be done by hand.
 
-Here are some ideas to get you started:
+## What I'm working toward
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm looking to move into a role where I can focus on data and process improvement full time — things like Data Analyst, Business Analyst, or Business Intelligence Developer. I enjoy the puzzle side of data work: figuring out how different systems and data sets fit together, and building things that are automated and repeatable.
+
+## Tools & technologies I'm learning
+
+- SQL
+- Power Query / Power BI concepts
+- PowerShell
+- Power Automate
+- Python
+- JavaScript, HTML, CSS
+
+## A bit more about me
+
+I've spent the last several years bridging the gap between plant floor operations and the data systems that support them — things like MES and ERP integration, automated reporting, and process improvement. School has been my way of formalizing the technical side of that experience.
+
+Feel free to check out my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/johnmoore-ci).
